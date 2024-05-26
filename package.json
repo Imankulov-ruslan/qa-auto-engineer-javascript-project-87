@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "type": "module",
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Imankulov-ruslan/qa-auto-engineer-javascript-project-87/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Imankulov-ruslan/qa-auto-engineer-javascript-project-87/actions)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imankulov-ruslan/qa-auto-engineer-javascript-project-87.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imankulov-ruslan/qa-auto-engineer-javascript-project-87/issues"
+  },
+  "homepage": "https://github.com/Imankulov-ruslan/qa-auto-engineer-javascript-project-87#readme",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
