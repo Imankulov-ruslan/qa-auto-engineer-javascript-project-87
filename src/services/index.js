@@ -1,1 +1,1 @@
-export { genDiffTree } from './genDiffTree.js';
+export {default as genDiffTree} from './genDiffTree.js';

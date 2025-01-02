@@ -1,1 +1,1 @@
-export { parser } from "./parser";
+export { default as parser } from "./parser.js";

@@ -22,4 +22,4 @@ const genDiffTree = (beforeData, afterData) => {
     })
 }
 
-export default genDiffTree;
+export default genDiffTree
